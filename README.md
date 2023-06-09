@@ -5,4 +5,4 @@ datos:
 ## Descripcion 
 Instalacion y configuracion de entorno de desarrollo
 
-![](img/carro.jpg)
+![](img/carro%20veloz.avif)
